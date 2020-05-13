@@ -1,2 +1,2 @@
 # Sudoku-Solve
-Un petit projet avec Clara pour s'amuser
+Un petit projet pour s'amuser
